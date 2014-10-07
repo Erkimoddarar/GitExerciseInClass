@@ -1,8 +1,12 @@
 Inception was a lie
 <<<<<<< HEAD
+<<<<<<< HEAD
 Flubber
 
 =======
+=======
+Finding nemo FTW!
+>>>>>>> d2f59c80d14bc4e876b39cc9f45e17ca3ad8e5d8
 Movies are for losers
 We are the world
 >>>>>>> 33c560e99a8031b0996fcdb97f33e38c43a8321d
