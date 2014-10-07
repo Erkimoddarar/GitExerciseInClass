@@ -3,4 +3,8 @@ Flubber
 Finding nemo FTW!
 Movies are for losers
 We are the world
+<<<<<<< HEAD
 
+=======
+Planet of the apes
+>>>>>>> 309a41fc747e5bc349407ea3fd440cec36d672ab
