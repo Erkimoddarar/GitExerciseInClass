@@ -1,3 +1,8 @@
 Inception was a lie
+<<<<<<< HEAD
 Flubber
 
+=======
+Movies are for losers
+We are the world
+>>>>>>> 33c560e99a8031b0996fcdb97f33e38c43a8321d
