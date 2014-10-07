@@ -5,6 +5,7 @@ Movies are for losers
 We are the world
 Planet of the apes
 Dirty Dancing
+<<<<<<< HEAD
 
 
 
@@ -19,3 +20,6 @@ Dirty Dancing
 
 Danni ben aðrugla
 
+=======
+D-DAY!!
+>>>>>>> master-sindrikaldal
